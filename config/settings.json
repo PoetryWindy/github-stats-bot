@@ -1,0 +1,15 @@
+{
+  "daily_report": {
+    "enabled": true,
+    "days_back": 1,
+    "include_issues": true
+  },
+  "weekly_report": {
+    "enabled": true,
+    "days_back": 7,
+    "include_issues": true
+  },
+  "email_recipients": [
+    "admin@example.com"
+  ]
+}
