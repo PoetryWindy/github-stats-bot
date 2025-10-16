@@ -37,7 +37,7 @@ github_bot/
 ### 1. Fork 或克隆仓库
 
 ```bash
-git clone [https://github.com/your-username/github_bot.git](https://github.com/PoetryWindy/github-stats-bot.git)
+git clone https://github.com/PoetryWindy/github-stats-bot.git
 cd github_bot
 ```
 
