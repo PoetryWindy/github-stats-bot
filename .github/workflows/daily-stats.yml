@@ -46,7 +46,7 @@ jobs:
         
     - name: Upload report as artifact (if dry run)
       if: ${{ github.event.inputs.dry_run == 'true' }}
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: daily-stats-report
         path: |
